@@ -1,4 +1,4 @@
-# Princesse des étoiles 👸🌟
+# Space Pixie 🌌🧚‍♀️
 
 A gentle, crank-only game made for a 4-year-old.
 
